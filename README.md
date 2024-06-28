@@ -1,2 +1,2 @@
-# vybe-backend
-spring boot app with mysql data base for vybe
+# vybe-backend-spring
+ backend for vybe-frontend-with-auth
