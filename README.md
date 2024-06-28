@@ -1,2 +1,2 @@
 # vybe-backend-spring
- backend for vybe-frontend-with-auth
+ spring boot backend for vybe-frontend-with-auth
